@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\Practise23.12\Practise23.12\bin\Debug\net6.0\Practise23.12.exe
+C:\Users\HP\source\repos\Practise23.12\Practise23.12\bin\Debug\net6.0\Practise23.12.deps.json
+C:\Users\HP\source\repos\Practise23.12\Practise23.12\bin\Debug\net6.0\Practise23.12.runtimeconfig.json
+C:\Users\HP\source\repos\Practise23.12\Practise23.12\bin\Debug\net6.0\Practise23.12.dll
+C:\Users\HP\source\repos\Practise23.12\Practise23.12\bin\Debug\net6.0\Practise23.12.pdb
+C:\Users\HP\source\repos\Practise23.12\Practise23.12\obj\Debug\net6.0\Practise23.12.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Practise23.12\Practise23.12\obj\Debug\net6.0\Practise23.12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Practise23.12\Practise23.12\obj\Debug\net6.0\Practise23.12.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Practise23.12\Practise23.12\obj\Debug\net6.0\Practise23.12.AssemblyInfo.cs
+C:\Users\HP\source\repos\Practise23.12\Practise23.12\obj\Debug\net6.0\Practise23.12.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Practise23.12\Practise23.12\obj\Debug\net6.0\Practise23.12.dll
+C:\Users\HP\source\repos\Practise23.12\Practise23.12\obj\Debug\net6.0\refint\Practise23.12.dll
+C:\Users\HP\source\repos\Practise23.12\Practise23.12\obj\Debug\net6.0\Practise23.12.pdb
+C:\Users\HP\source\repos\Practise23.12\Practise23.12\obj\Debug\net6.0\Practise23.12.genruntimeconfig.cache
+C:\Users\HP\source\repos\Practise23.12\Practise23.12\obj\Debug\net6.0\ref\Practise23.12.dll
