@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Practise23._12.Models.BaseEntity
 {
-    internal class Class : IClass
+    internal class Class 
     {
         public int Id { get; set; }
         public string Name { get; set; }
@@ -16,7 +16,7 @@ namespace Practise23._12.Models.BaseEntity
 
         static Class()
         {
-            classStudent = new Student[0];
+            classStudent = new Student[10];
         }
 
         public void AddStudent(Student student, string className, string schoolName)
@@ -27,16 +27,18 @@ namespace Practise23._12.Models.BaseEntity
 
         public void ChangeStudentClass(string studentName, string className)
         {
-            Student? findedStudent = Array.Find(classStudent,s => s.Name == studentName);
-            int index = Array.IndexOf(classStudent, findedStudent);
-            classStudent[index] = null;
+            DeleteStudent(studentName);
             //studenti diger sinife elave et
             
         }
 
-        public void DeleteStudent(Student student)
+        public void DeleteStudent(string studentName)
         {
-            throw new NotImplementedException();
+            Student? findedStudent = Array.Find(classStudent, s => s.Name == studentName);
+            int index = Array.IndexOf(classStudent, findedStudent);
+            classStudent[index] = classStudent[classStudent.Length - 1];
+            Array.Resize(ref classStudent, classStudent.Length - 2);
+
         }
 
         public void FindStudent(Student student)

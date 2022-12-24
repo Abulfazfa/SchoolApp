@@ -17,5 +17,7 @@ namespace Practise23._12.Models.BaseEntity
             Classes = new Class[0];
         }
         
+
+
     }
 }
